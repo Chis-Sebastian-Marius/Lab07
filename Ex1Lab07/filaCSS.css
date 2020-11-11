@@ -1,0 +1,72 @@
+body {
+  background-color: lightblue;
+
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.paginaPrezentare{
+	color:  rgb(112, 123, 124 );
+	text-align: center;
+
+}
+
+.requirments{
+	color: rgb(77, 86, 86);
+	 font-weight: bold;
+
+}
+
+.contetu{
+	color: rgb(112, 123, 124);
+	font-style:   italic;
+	 font-weight: bold;
+}
+
+table,th,tr{
+	border: 1px solid black;
+	border-radius: 1px;
+}
+
+.nextButton{
+	color: rgb(251, 252, 252 );
+	background -color: red;
+	
+	align-self: right;
+	align-items: right;
+	align-content: right;
+	text-align: right;
+
+	font-size: 25px;
+
+	
+
+}
+
+.imagine{
+	border-radius: 5px;
+	border: 1px solid black;
+	align-items: middle;
+	align-self: middle;
+	  opacity: 1;
+
+}
+
+#CUPRINS{
+	
+	color: rgb(249, 231, 159 );
+}
+
+#body{
+	 background-image: url(book.jpg);
+
+}
+
